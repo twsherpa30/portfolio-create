@@ -57,7 +57,7 @@ function Hero() {
         <div className="profile-container">
           <div className="tape"></div>
           <div className="profile-image">
-            <img src="/public/img.jpeg" alt="Profile Photo" />
+            <img src="/public/myimage.jpeg" alt="Profile Photo" />
           </div>
         </div>
       </div>
